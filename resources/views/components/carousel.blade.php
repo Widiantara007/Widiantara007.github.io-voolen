@@ -7,8 +7,8 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 text-center">
-                                <p class="fs-4 text-white animated zoomIn">Welcome to <strong class="text-dark"> Volen</strong></p>
-                                <h1 class="display-1 text-dark mb-4 animated zoomIn">Many Fun Workshops & Activities</h1>
+                                <p class="fs-4 animated zoomIn smalltitle">Welcome to Volen </p>
+                                <h1 class="display-1 title mb-4 animated zoomIn">Many Fun Workshops & Activities</h1>
                                 <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
                             </div>
                         </div>
@@ -21,8 +21,8 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 text-center">
-                                <p class="fs-4 text-white animated zoomIn">Who We Are?</p>
-                                <h1 class="display-1 text-dark mb-4 animated zoomIn">Worldwide Joined Participant</h1>
+                                <p class="fs-4 smalltitle animated zoomIn smalltitle">Who We Are?</p>
+                                <h1 class="display-1 title mb-4 animated zoomIn">Worldwide Joined Participant</h1>
                                 <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
                             </div>
                         </div>
@@ -35,8 +35,8 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 text-center">
-                                <p class="fs-4 text-white animated zoomIn">What Voolen Do?</p>
-                                <h1 class="display-1 text-dark mb-4 animated zoomIn">Art Activities, Goods & Installation</h1>
+                                <p class="fs-4 smalltitle animated zoomIn">What Voolen Do?</p>
+                                <h1 class="display-1 title mb-4 animated zoomIn">Art Activities, Goods & Installation</h1>
                                 <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
                             </div>
                         </div>

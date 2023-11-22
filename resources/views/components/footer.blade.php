@@ -2,10 +2,10 @@
     <div class="container py-5">
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-primary mb-4">Our Office</h4>
-                <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Jalan Marlboro V, No.12 Denpasar - Bali</p>
-                <p class="mb-2"><i class="bi bi-instagram text-primary me-3"></i>@volenartspace</p>
-                <p class="mb-2"><i class="bi bi-globe text-primary me-3"></i>www.volenartspace.com</p>
+                <h4 class="text-white mb-4">Our Office</h4>
+                <p class="mb-2"><i class="text-white fa fa-map-marker-alt text-primary me-3"></i>Jalan Marlboro V, No.12 Denpasar - Bali</p>
+                <p class="mb-2"><i class="text-white bi bi-instagram text-primary me-3"></i>@volenartspace</p>
+                <p class="mb-2"><i class="text-white bi bi-globe text-primary me-3"></i>www.volenartspace.com</p>
              
                 {{-- <div class="d-flex pt-3">
                     <a class="btn btn-square btn-primary rounded-circle me-2" href=""><i class="fab fa-twitter"></i></a>
@@ -15,25 +15,26 @@
                 </div> --}}
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-primary mb-4">Quick Links</h4>
-                <a class="btn btn-link" href="">About Us</a>
+                <h4 class="text-white mb-4">Quick Links</h4>
+                <a class="btn btn-link " href="">About Us</a>
                 <a class="btn btn-link" href="">Contact Us</a>
                 <a class="btn btn-link" href="">Our Services</a>
                 <a class="btn btn-link" href="">Terms & Condition</a>
                 <a class="btn btn-link" href="">Support</a>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-primary mb-4">Business Hours</h4>
+                <h4 class="text-white mb-4">Business Hours</h4>
                 <p class="mb-1">Monday - Friday</p>
                 <h6 class="text-light">09:00 am - 05:00 pm</h6>
                 <p class="mb-1">Saturday - Sunday</p>
                 <h6 class="text-light">Activities Only</h6>
             </div>
             <div class="col-lg-3 col-md-6">
-                <h4 class="text-primary mb-4">Contact Now</h4>
+                <h4 class="text-white mb-4">Contact Now</h4>
                
                 <div class="position-relative w-100">
-                    <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Contact Now</a>
+                    
+                    <a href="https://wa.me/0895341115908" class="btn btn-reverse rounded-pill py-3 px-5" href="">Join Now</a>
                 </div>
             </div>
         </div>
@@ -47,11 +48,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                &copy; <a class="fw-medium" href="#">Your Site Name</a>, All Right Reserved.
+                &copy; <a class="fw-medium text-white" href="#">Your Site Name</a>, All Right Reserved.
             </div>
             <div class="col-md-6 text-center text-md-end">
                 <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                Designed By <a class="fw-medium" href="https://htmlcodex.com">HTML Codex</a>
+                Designed By <a class="fw-medium text-white" href="https://htmlcodex.com">HTML Codex</a>
             </div>
         </div>
     </div>

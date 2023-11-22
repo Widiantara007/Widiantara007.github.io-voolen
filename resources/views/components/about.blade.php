@@ -1,5 +1,5 @@
 <!-- About Start -->
-<div class="container-xxl py-5">
+<div class="container-fluid py-5 bg-about">
     <div class="container">
         <div class="row g-5">
             <div class="col-lg-6">
@@ -16,8 +16,8 @@
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <div class="section-title">
-                    <p class="fs-5 fw-medium fst-italic text-primary">About Us</p>
-                    <h1 class="display-6">15 Years of Upscaling Community Level Succeed</h1>
+                    <p class="fs-5 fw-medium fst-italic smalltitle">About Us</p>
+                    <h1 class="display-6 maintext">15 Years of Upscaling Community Level Succeed</h1>
                 </div>
                 <div class="row g-3 mb-4">
                     <div class="col-sm-4">
@@ -25,14 +25,14 @@
                     </div>
                     <div class="col-sm-8">
                         <h5>Worldwide Communities Has Joined Volen's Activities</h5>
-                        <p class="mb-0">For more than 10 years we show love and passion in knitting and many more artworks, it open many doors for us and gives us chances to embrace the world and made a lot of friends.</p>
+                        <p class="minidesc">For more than 10 years we show love and passion in knitting and many more artworks, it open many doors for us and gives us chances to embrace the world and made a lot of friends.</p>
                     </div>
                 </div>
                 <div class="border-top mb-4"></div>
                 <div class="row g-3">
                     <div class="col-sm-8">
                         <h5>Volen's Activities Is Fun, Healing & Popular</h5>
-                        <p class="mb-0">We had interviewed and attended as speaker in many mental health events, and humbly we would tell that our activities are foods for your soul.  <a href="https://wa.me/0895341115908"> Join us Now </a></p>
+                        <p class="minidesc">We had interviewed and attended as speaker in many mental health events, and humbly we would tell that our activities are foods for your soul.  <a href="https://wa.me/0895341115908"> Join us Now </a></p>
                     </div>
                     <div class="col-sm-4">
                         <img class="img-fluid bg-white w-100" src="img/about-6.jpg" alt="">

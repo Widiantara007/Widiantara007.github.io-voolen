@@ -20,8 +20,8 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <p class="fs-5 fw-medium fst-italic text-primary">Goods</p>
-                <h1 class="display-6">These are our popular made-with-love goods that you can have</h1>
+                <p class="fs-5 fw-medium fst-italic smalltitle">Goods</p>
+                <h1 class="display-6 maintext">These are our popular made-with-love goods that you can have</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -29,15 +29,15 @@
                         <img class="img-fluid" src="img/store-product-1.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
                             </div>
                             <h4 class="mb-3">Shoulder Bag</h4>
                             <p>Fancy colors & cotton materials bring you to simple yet stylish everyday</p>
-                            {{-- <h4 class="text-primary">$19.00</h4> --}}
+                            <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
                             <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
@@ -50,15 +50,15 @@
                         <img class="img-fluid" src="img/store-product-2.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
                             </div>
                             <h4 class="mb-3">Granny Square Bag</h4>
                             <p>Granny's never get old, it old-fashioned lover bag!</p>
-                            {{-- <h4 class="text-primary">$19.00</h4> --}}
+                            <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
                             <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
@@ -71,15 +71,15 @@
                         <img class="img-fluid" src="img/store-product-3.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
-                                <small class="fa fa-star text-primary"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
                             </div>
                             <h4 class="mb-3">Scrunchy</h4>
                             <p>Wear it on your wrist, tied it on your hair, bring it everytime you go</p>
-                            {{-- <h4 class="text-primary">$19.00</h4> --}}
+                            <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
                             <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>

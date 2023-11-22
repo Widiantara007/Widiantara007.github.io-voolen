@@ -27,7 +27,7 @@
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <div class="section-title">
-                    <a href="" class="fs-5 fw-medium fst-italic text-primary">Basic Crochet</a>
+                    <a href="" class="fs-5 fw-medium fst-italic text-dark">Basic Crochet</a>
                     <h1 class="display-6">We will guide you to make beautiful things with hakpen & simple crochet techniques.</h1>
                 </div>
                 
@@ -42,7 +42,7 @@
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <div class="section-title">
-                    <a href="" class="fs-5 fw-medium fst-italic text-primary">Chunky Bag</a>
+                    <a href="" class="fs-5 fw-medium fst-italic text-dark">Chunky Bag</a>
                     <h1 class="display-6">Chunky chunky we go hungry! Who can avoid chunky bag? It's easy yet adorable.</h1>
                 </div>
                 <a href="" class="btn btn-dark rounded-pill py-3 px-5">Read More</a>
@@ -56,7 +56,7 @@
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <div class="section-title">
-                    <a href="" class="fs-5 fw-medium fst-italic text-primary">Resin Ocean Painting</a>
+                    <a href="" class="fs-5 fw-medium fst-italic text-dark">Resin Ocean Painting</a>
                     <h1 class="display-6">Memorize Bali's ocean breeze in a canvas and bring it to your house. It thick and long last memories.</h1>
                 </div>
                 <a href="" class="btn btn-dark rounded-pill py-3 px-5">Read More</a>
@@ -70,7 +70,7 @@
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                 <div class="section-title">
-                    <a href="" class="fs-5 fw-medium fst-italic text-primary">Basic Knitting</a>
+                    <a href="" class="fs-5 fw-medium fst-italic text-dark">Basic Knitting</a>
                     <h1 class="display-6">The ancient knit with breien is no longer difficult in your hands. We have methodes that will make you love it. </h1>
                 </div>
                 <a href="" class="btn btn-dark rounded-pill py-3 px-5">Read More</a>
