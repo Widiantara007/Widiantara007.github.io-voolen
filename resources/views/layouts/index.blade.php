@@ -277,14 +277,22 @@
             <div class="row justify-content-center wow fadeInUp" data-wow-delay="0.1s">
                <div class="container margin-top">
                     <section class="customer-logos slider">
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
-                        <div class="slide"><img src="img/client_1.jpg" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client1.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client2.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client3.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client4.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client5.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client6.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client7.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client8.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client9.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client10.png" alt="Client 1"></div>
                     </section>
+                    
+                    
+                </div>
+                <div class="text-center mx-auto wow mt-5 fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                    <a href="{{ route('clients') }}" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Show More</a>
                 </div>
             </div>
         </div>

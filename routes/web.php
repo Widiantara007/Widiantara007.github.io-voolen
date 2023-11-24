@@ -28,3 +28,6 @@ Route::get('/goods', function () {
 Route::get('/contact', function () {
     return view('layouts.contact');
 })->name('contact');
+Route::get('/clients', function () {
+    return view('layouts.clients');
+})->name('clients');

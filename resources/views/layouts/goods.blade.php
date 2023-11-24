@@ -40,8 +40,8 @@
                             <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
-                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">Add to Cart <i class="fa fa-cart-plus ms-2"></i></a>
+                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now <i class="fa fa-arrow-right ms-2"></i></a>
+                           
                         </div>
                     </div>
                 </div>
@@ -61,8 +61,8 @@
                             <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
-                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">Add to Cart <i class="fa fa-cart-plus ms-2"></i></a>
+                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now <i class="fa fa-arrow-right ms-2"></i></a>
+                           
                         </div>
                     </div>
                 </div>
@@ -82,8 +82,8 @@
                             <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">More Detail <i class="fa fa-arrow-right ms-2"></i></a>
-                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">Add to Cart <i class="fa fa-cart-plus ms-2"></i></a>
+                            <a href="" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now <i class="fa fa-arrow-right ms-2"></i></a>
+                           
                         </div>
                     </div>
                 </div>
