@@ -277,16 +277,16 @@
             <div class="row justify-content-center wow fadeInUp" data-wow-delay="0.1s">
                <div class="container margin-top">
                     <section class="customer-logos slider">
-                        <div class="slide"><img src="img/clients/client1.png" alt="Client 1"></div>
                         <div class="slide"><img src="img/clients/client2.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client3.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client4.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client5.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client6.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client7.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client8.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client9.png" alt="Client 1"></div>
-                        <div class="slide"><img src="img/clients/client10.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client23.png" alt="Client 2"></div>
+                        <div class="slide"><img src="img/clients/client34.png" alt="Client 3"></div>
+                        <div class="slide"><img src="img/clients/client15.png" alt="Client 4"></div>
+                        <div class="slide"><img src="img/clients/client54.png" alt="Client 5"></div>
+                        <div class="slide"><img src="img/clients/client49.png" alt="Client 6"></div>
+                        <div class="slide"><img src="img/clients/client46.png" alt="Client 7"></div>
+                        <div class="slide"><img src="img/clients/client3.png" alt="Client 8"></div>
+                        <div class="slide"><img src="img/clients/client53.png" alt="Client 1"></div>
+                        <div class="slide"><img src="img/clients/client50.png" alt="Client 1"></div>
                     </section>
                     
                     

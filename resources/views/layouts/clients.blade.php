@@ -224,6 +224,230 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client28.png" alt="">
+                    <div class="store-overlay">
+                       <h1>Unilever</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client29.png" alt="">
+                    <div class="store-overlay">
+                       <h1>YouTube</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client30.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client31.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client32.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client33.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client34.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client35.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client36.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client37.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client38.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client39.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client40.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client41.png" alt="">
+                    <div class="store-overlay">
+                       <h1>Unilever</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client42.png" alt="">
+                    <div class="store-overlay">
+                       <h1>YouTube</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client44.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client45.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client46.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client47.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client48.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client49.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client50.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client51.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client52.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client53.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client54.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client55.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/clients/client56.png" alt="">
+                    <div class="store-overlay">
+                       <h1>More Detail</h1>
+                    </div>
+                </div>
+            </div>
 
            
         </div>
