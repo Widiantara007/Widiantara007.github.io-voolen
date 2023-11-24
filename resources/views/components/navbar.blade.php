@@ -12,6 +12,7 @@
                 <div class="navbar-nav ms-auto">
                     <a href="{{ route('index') }}" class="nav-item nav-link {{ Request::is('/') ? 'active' : '' }} ">Home</a>
                     <a href="{{ route('about') }}"class="nav-item nav-link {{ Request::is('about') ? 'active' : '' }}">About</a>
+                    <a href="{{ route('installation') }}"class="nav-item nav-link {{ Request::is('installation') ? 'active' : '' }}">Installation</a>
                     <a href="{{ route('activities') }}"class="nav-item nav-link {{ Request::is('activities') ? 'active' : '' }}">Activities</a>
                     <a href="{{ route('goods') }}"class="nav-item nav-link {{ Request::is('goods') ? 'active' : '' }}">Goods</a>
                     <a href="{{ route('contact') }}"class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>

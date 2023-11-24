@@ -328,7 +328,7 @@
                             <div class="btn-square mx-auto mb-3">
                                 <i class="text-secondary fa fa-map-marker-alt fa-2x "></i>
                             </div>
-                            <p class="mb-2">Jalan Marlboro V, No.12 Denpasar - Bali</p>
+                            <p class="mb-2">Marlboro V, No.12 Denpasar - Bali</p>
                         </div>
                     </div>
                 </div>

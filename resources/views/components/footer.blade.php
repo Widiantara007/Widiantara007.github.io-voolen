@@ -3,7 +3,7 @@
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-white mb-4">Our Office</h4>
-                <p class="mb-2"><i class="text-white fa fa-map-marker-alt text-primary me-3"></i>Jalan Marlboro V, No.12 Denpasar - Bali</p>
+                <p class="mb-2"><i class="text-white fa fa-map-marker-alt text-primary me-3"></i>Marlboro V, No.12 Denpasar - Bali</p>
                 <p class="mb-2"><i class="text-white bi bi-instagram text-primary me-3"></i>@volenartspace</p>
                 <p class="mb-2"><i class="text-white bi bi-globe text-primary me-3"></i>www.volenartspace.com</p>
              

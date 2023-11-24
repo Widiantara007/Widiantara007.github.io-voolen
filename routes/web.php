@@ -31,3 +31,6 @@ Route::get('/contact', function () {
 Route::get('/clients', function () {
     return view('layouts.clients');
 })->name('clients');
+Route::get('/installation', function () {
+    return view('layouts.installation');
+})->name('installation');

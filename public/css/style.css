@@ -627,7 +627,7 @@ ul.client-thumb-2 li a img:hover{
     margin: 0 20px;
 }
 .slick-slide img{
-    width: 100%;
+    max-width: 100%;
 }
 .slick-slider{
     position: relative;
