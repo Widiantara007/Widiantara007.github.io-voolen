@@ -15,33 +15,43 @@
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
                     <img src="img/product-1.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
-                        <h4 class="maintext">Basic Crochet</h4>
-                        <span class="minidesc">We will guide you to make beautiful things with hakpen & simple crochet techniques.</span>
+                        <h4 class="maintext">Basic Crochet: Crafting Elegance, One Stitch at a Time
+                        </h4>
+                        <span class="minidesc">Discover the joy of Basic Crochet, where yarn and hook unite to create timeless pieces. From cozy scarves to intricate doilies, explore the art of crafting with a touch of tradition and modern flair.
+                        </span>
                     </div>
                 </a>
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
                     <img src="img/product-2.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
-                        <h4 class="maintext">Chunky Bag</h4>
-                        <span class="text-body">Chunky chunky we go hungry! Who can avoid chunky bag? It's easy yet adorable.</span>
+                        <h4 class="maintext"> Chunky Bag: Fashion Meets Functionality
+                        </h4>
+                        <span class="text-body">Elevate your style with Chunky Bag crafting. Use chunky yarn to fashion accessories that blend fashion with functionality. Your handmade chunky bag will turn heads and become a testament to your unique style.
+                        </span>
                     </div>
                 </a>
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
                     <img src="img/product-3.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
-                        <h4 class="maintext">Resin Ocean Painting</h4>
-                        <span class="text-body">Memorize Bali's ocean breeze in a canvas and bring it to your house. It thick and long last memories.</span>
+                        <h4 class="maintext">Punch Needle: Painting with Yarn
+                        </h4>
+                        <span class="text-body">Explore the world of Punch Needle, transforming yarn into textured canvases. This rhythmic craft offers therapeutic creativity, resulting in vibrant designs that become cherished pieces of art.
+                        </span>
                     </div>
                 </a>
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
                     <img src="img/product-3.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
-                        <h4 class="maintext">Basic Knitting</h4>
-                        <span class="text-body">The ancient knit with breien is no longer difficult in your hands. We have methodes that will make you love it. </span>
+                        <h4 class="maintext">Resin Ocean Painting: Waves of Creativity
+                        </h4>
+                        <span class="text-body">Immerse yourself in Resin Ocean Painting, where waves of vibrant colors blend to create stunning, soothing masterpieces. This visually captivating activity promises both an artwork and a journey into your creativity's depths.
+                        </span>
                     </div>
                 </a>
-                
-            </div>            
+            </div>
+        </div>
+        <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+            <a href="{{ route('activities') }}" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Show More</a>
         </div>
     </div>
     <!-- Activities End -->

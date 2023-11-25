@@ -57,12 +57,12 @@
     // Product carousel
     $(".product-carousel").owlCarousel({
         autoplay: true,
-        smartSpeed: 1000,
+        smartSpeed: 900,
         margin: 25,
         loop: true,
         center: true,
         dots: false,
-        nav: true,
+        nav: false,
         navText : [
             '<i class="bi bi-chevron-left"></i>',
             '<i class="bi bi-chevron-right"></i>'
