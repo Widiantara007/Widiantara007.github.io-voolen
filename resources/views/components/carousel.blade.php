@@ -7,9 +7,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 text-center">
-                                <p class="fs-4 animated zoomIn smalltitle">Welcome to Volen </p>
+                                <p class="fs-4 animated zoomIn text-white smalltitle">Welcome to Volen </p>
                                 <h1 class="display-1 title mb-4 animated zoomIn">Many Fun Workshops & Activities</h1>
-                                <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
+                                <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
                             </div>
                         </div>
                     </div>
@@ -21,9 +21,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 text-center">
-                                <p class="fs-4 smalltitle animated zoomIn smalltitle">Who We Are?</p>
+                                <p class="fs-4 smalltitle animated zoomIn text-white smalltitle">Who We Are?</p>
                                 <h1 class="display-1 title mb-4 animated zoomIn">Worldwide Joined Participant</h1>
-                                <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
+                                <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
                             </div>
                         </div>
                     </div>
@@ -35,9 +35,9 @@
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-7 text-center">
-                                <p class="fs-4 smalltitle animated zoomIn">What Voolen Do?</p>
+                                <p class="fs-4 smalltitle animated text-white zoomIn">What Voolen Do?</p>
                                 <h1 class="display-1 title mb-4 animated zoomIn">Art Activities, Goods & Installation</h1>
-                                <a href="https://wa.me/0895341115908" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
+                                <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
                             </div>
                         </div>
                     </div>

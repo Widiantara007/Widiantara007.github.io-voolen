@@ -4,27 +4,27 @@
     <div class="container-fluid contact py-5">
         <div class="container">
             <div class="section-title text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <p class="fs-5 fw-medium fst-italic text-primary">Contact us right now</p>
+                <p class="fs-5 fw-medium fst-italic smalltitle">Contact us right now</p>
                 <h1 class="display-6">Our door is widely open for any kind of purpose and collaboration. Please contact us by click the button bellow.</h1>
             </div>
             <div class="row g-5 mb-5">
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-delay="0.3s">
                     <div class="btn-square mx-auto mb-3">
-                        <i class="fa fa-envelope fa-2x text-white"></i>
+                        <i class="fa fa-envelope fa-2x text-secondary"></i>
                     </div>
                     <p class="mb-2">info@example.com</p>
                     <p class="mb-0">support@example.com</p>
                 </div>
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-delay="0.4s">
                     <div class="btn-square mx-auto mb-3">
-                        <i class="fa fa-phone fa-2x text-white"></i>
+                        <i class="fa fa-phone fa-2x text-secondary"></i>
                     </div>
                     <p class="mb-2">0895341115908</p>
                     <p class="mb-0">0895341115908</p>
                 </div>
                 <div class="col-md-4 text-center wow fadeInUp" data-wow-delay="0.5s">
                     <div class="btn-square mx-auto mb-3">
-                        <i class="fa fa-map-marker-alt fa-2x text-white"></i>
+                        <i class="fa fa-map-marker-alt fa-2x text-secondary"></i>
                     </div>
                     <p class="mb-2">123 Street</p>
                     <p class="mb-0">New York, USA</p>

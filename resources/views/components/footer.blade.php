@@ -34,7 +34,7 @@
                
                 <div class="position-relative w-100">
                     
-                    <a href="https://wa.me/0895341115908" class="btn btn-reverse rounded-pill py-3 px-5" href="">Join Now</a>
+                    <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-reverse rounded-pill py-3 px-5 animated zoomIn">Join Now</a>
                 </div>
             </div>
         </div>

@@ -18,7 +18,9 @@
                     <a href="{{ route('contact') }}"class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>
                 </div>
                 <div class="border-start ps-4 d-none d-lg-block">
-                    <button type="button" class="btn btn-sm p-0 text-white"><i class="btn-search fa fa-search"></i></button>
+                    <button type="button" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-whatsapp"></i> </button>
+                    <button type="button" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-instagram"></i> </button>
+                    <button type="button" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-youtube"></i> </button>
                 </div>
             </div>
         </nav>
