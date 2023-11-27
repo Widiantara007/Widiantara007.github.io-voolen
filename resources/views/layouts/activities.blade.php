@@ -147,6 +147,7 @@
                 </div>
             </div>
             
+            
            
            
             
@@ -164,7 +165,21 @@
                     </div>
                 </div>
             </div>
-           
+            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="store-item position-relative text-center">
+                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <div class="p-4">
+                        <h4 class="mb-3">Silk Painting
+                        </h4>
+                        <p>Experience the timeless art of Knitting, where yarn and needles transform into cozy creations. Whether a beginner or an expert, the possibilities are endless – from warm sweaters to trendy accessories. Knitting is a journey into the comforting world of handmade warmth.
+                        </p>
+                        {{-- <h4 class="smalltitle">$19.00</h4> --}}
+                    </div>
+                    <div class="store-overlay">
+                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Knitting: Cozy Creations with Needles and Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
             {{-- <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
                 <a href="" class="btn btn-primary rounded-pill py-3 px-5">View More Products</a>
             </div> --}}

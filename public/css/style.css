@@ -361,7 +361,6 @@
     border-radius: 100%;
     transition: all 200ms;
 }
-
 .btn-play span {
     display: block;
     position: relative;
@@ -432,7 +431,10 @@
     opacity: 1;
 }
 
-
+.icn:hover{
+    color: var(--lightGrey);
+    
+}
 /*** Contact ***/
 .contact{
     background: linear-gradient(rgba(136, 180, 78, .1), rgba(136, 180, 78, .1)), url(../img/product-bg.png) left bottom no-repeat;

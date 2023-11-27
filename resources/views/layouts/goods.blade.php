@@ -228,6 +228,28 @@
                                 <small class="fa fa-star smalltitle"></small>
                                 <small class="fa fa-star smalltitle"></small>
                             </div>
+                            <h4 class="mb-3">Amigurumi Duck </h4>
+                            <p>Introduce a touch of bohemian elegance with our Macramé Wall Hanging! Meticulously handcrafted, this intricate tapestry of knots adds a textured, artistic flair to your space, creating a captivating focal point.
+
+                            </p>
+                            <h4 class="smalltitle">$45</h4>
+                        </div>
+                        <div class="store-overlay">
+                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi Duck.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="store-item position-relative text-center">
+                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <div class="p-4">
+                            <div class="text-center mb-3">
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                                <small class="fa fa-star smalltitle"></small>
+                            </div>
                             <h4 class="mb-3">Macramé Wall Hanging 30 x 40</h4>
                             <p>Introduce a touch of bohemian elegance with our Macramé Wall Hanging! Meticulously handcrafted, this intricate tapestry of knots adds a textured, artistic flair to your space, creating a captivating focal point.
 
