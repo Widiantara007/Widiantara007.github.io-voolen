@@ -26,7 +26,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <img class="img-fluid" src="img/Shoulder.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-2.jpg" alt="">
+                        <img class="img-fluid" src="img/Granny.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-3.jpg" alt="">
+                        <img class="img-fluid" src="img/Scrunchy.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <img class="img-fluid" src="img/Chunky.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -109,7 +109,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-2.jpg" alt="">
+                        <img class="img-fluid" src="img/flower.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -120,7 +120,6 @@
                             </div>
                             <h4 class="mb-3">Amigurumi Flower</h4>
                             <p>Volen's Amigurumi Flower blooms with whimsy and charm. Handcrafted with love, these crochet wonders add a touch of playful elegance to your space. Embrace nature-inspired creativity.
-
                             </p>
                             <h4 class="smalltitle">$45</h4>
                         </div>
@@ -131,7 +130,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-3.jpg" alt="">
+                        <img class="img-fluid" src="img/bunny.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -153,7 +152,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <img class="img-fluid" src="img/dino.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -174,7 +173,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-2.jpg" alt="">
+                        <img class="img-fluid" src="img/turtle.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -197,7 +196,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-3.jpg" alt="">
+                        <img class="img-fluid" src="img/Pouch.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -219,7 +218,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <img class="img-fluid" src="img/duck.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -241,7 +240,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <img class="img-fluid" src="img/30x40.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -263,7 +262,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-2.jpg" alt="">
+                        <img class="img-fluid" src="img/50x60.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -286,7 +285,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-3.jpg" alt="">
+                        <img class="img-fluid" src="img/80x90.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -309,7 +308,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-3.jpg" alt="">
+                        <img class="img-fluid" src="img/100x120.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>

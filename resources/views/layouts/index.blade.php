@@ -13,7 +13,7 @@
             </div>
             <div class="owl-carousel product-carousel wow fadeInUp" data-wow-delay="0.5s">
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
-                    <img src="img/product-1.jpg" alt="">
+                    <img src="img/actv2.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext">Basic Crochet: Crafting Elegance, One Stitch at a Time
                         </h4>
@@ -22,7 +22,7 @@
                     </div>
                 </a>
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
-                    <img src="img/product-2.jpg" alt="">
+                    <img src="img/chunkybag.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext"> Chunky Bag: Fashion Meets Functionality
                         </h4>
@@ -31,7 +31,7 @@
                     </div>
                 </a>
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
-                    <img src="img/product-3.jpg" alt="">
+                    <img src="img/punch.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext">Punch Needle: Painting with Yarn
                         </h4>
@@ -40,7 +40,7 @@
                     </div>
                 </a>
                 <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
-                    <img src="img/product-3.jpg" alt="">
+                    <img src="img/resin.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext">Resin Ocean Painting: Waves of Creativity
                         </h4>
@@ -163,7 +163,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                        <img class="img-fluid" src="img/shoulder.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -183,7 +183,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-2.jpg" alt="">
+                        <img class="img-fluid" src="img/granny.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -203,7 +203,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/store-product-3.jpg" alt="">
+                        <img class="img-fluid" src="img/Scrunchy.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -226,6 +226,9 @@
                     <a href="" class="btn btn-primary rounded-pill py-3 px-5">View More Products</a>
                 </div> --}}
             </div>
+        </div>
+        <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+            <a href="{{ route('goods') }}" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Show More</a>
         </div>
     </div>
     <!-- Store End -->
@@ -342,7 +345,7 @@
                 </div>
             </div>
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Explore More</a>
+                <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Contact Now</a>
             </div>
         </div>
     </div>

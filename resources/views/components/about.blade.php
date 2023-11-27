@@ -32,7 +32,7 @@
                 <div class="row g-3">
                     <div class="col-sm-8">
                         <h5>Volen's Activities Is Fun, Healing & Popular</h5>
-                        <p class="minidesc">We had interviewed and attended as speaker in many mental health events, and humbly we would tell that our activities are foods for your soul.  <a href="https://wa.me/0895341115908"> Join us Now </a></p>
+                        <p class="minidesc">We had interviewed and attended as speaker in many mental health events, and humbly we would tell that our activities are foods for your soul.  <a href="https://wa.me/0895341115908" class="minidesc"> Join us Now </a></p>
                     </div>
                     <div class="col-sm-4">
                         <img class="img-fluid bg-white w-100" src="img/about-6.jpg" alt="">

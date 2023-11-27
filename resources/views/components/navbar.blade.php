@@ -20,10 +20,10 @@
                 <div class="border-start ps-4 d-none d-lg-block">
                     <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg  p-0 text-white px-1"> <i class="icn bi bi-whatsapp"></i> 
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg p-0 text-white px-1"> <i class="icn bi bi-instagram"></i> 
+                    {{-- <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg p-0 text-white px-1"> <i class="icn bi bi-instagram"></i> 
                     </a>
                     <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg p-0 text-white px-1"> <i class="icn bi bi-youtube"></i> 
-                    </a>
+                    </a> --}}
                 </div>
             </div>
         </nav>

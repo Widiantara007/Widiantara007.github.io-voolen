@@ -28,7 +28,7 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/actv2.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Basic Crochet: Crafting Elegance, One Stitch at a Time
                         </h4>
@@ -43,7 +43,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/chunkybag.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3"> Chunky Bag: Fashion Meets Functionality
                         </h4>
@@ -58,7 +58,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/punch.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Punch Needle: Painting with Yarn
                         </h4>
@@ -73,7 +73,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/resin.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3"> Resin Ocean Painting: Waves of Creativity
                         </h4>
@@ -88,7 +88,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/Beads.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Beads Jewellery: Adorn Yourself with Handcrafted Elegance
                         </h4>
@@ -103,7 +103,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/macrame1.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3"> Macrame: Knot Your Average Craft
                         </h4>
@@ -118,7 +118,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/tapestry.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Tapestry Weaving: Thread by Thread, a Tapestry Unfolds
                         </h4>
@@ -133,7 +133,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/knitting.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Knitting: Cozy Creations with Needles and Yarn
                         </h4>
@@ -153,7 +153,7 @@
             
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/Embroidery.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Embroidery: Stitching Stories on Fabric
                         </h4>
@@ -167,7 +167,7 @@
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="store-item position-relative text-center">
-                    <img class="img-fluid" src="img/store-product-1.jpg" alt="">
+                    <img class="img-fluid" src="img/Silk.jpg" alt="">
                     <div class="p-4">
                         <h4 class="mb-3">Silk Painting
                         </h4>
