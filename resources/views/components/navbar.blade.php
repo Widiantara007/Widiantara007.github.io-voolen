@@ -2,7 +2,7 @@
 <div class="container-fluid bg-dark sticky-top">
     <div class="container">
         <nav class="navbar navbar-expand-lg bg-dark navbar-light py-2 py-lg-0">
-            <a href="index.html" class="navbar-brand">
+            <a href="{{ route('index') }}" class="navbar-brand">
                 <img class="img-fluid" src="img/vln_logo.png" alt="Logo">
             </a>
             <button type="button" class="navbar-toggler ms-auto me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -18,9 +18,12 @@
                     <a href="{{ route('contact') }}"class="nav-item nav-link {{ Request::is('contact') ? 'active' : '' }}">Contact</a>
                 </div>
                 <div class="border-start ps-4 d-none d-lg-block">
-                    <button type="button" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-whatsapp"></i> </button>
-                    <button type="button" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-instagram"></i> </button>
-                    <button type="button" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-youtube"></i> </button>
+                    <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-whatsapp"></i> 
+                    </a>
+                    <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-instagram"></i> 
+                    </a>
+                    <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-lg p-0 text-white px-1"> <i class="bi bi-youtube"></i> 
+                    </a>
                 </div>
             </div>
         </nav>
