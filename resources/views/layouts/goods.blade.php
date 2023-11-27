@@ -229,7 +229,7 @@
                                 <small class="fa fa-star smalltitle"></small>
                             </div>
                             <h4 class="mb-3">Amigurumi Duck </h4>
-                            <p>Introduce a touch of bohemian elegance with our Macramé Wall Hanging! Meticulously handcrafted, this intricate tapestry of knots adds a textured, artistic flair to your space, creating a captivating focal point.
+                            <p>Discover whimsical charm with our meticulously crafted handmade amigurumi duck. Adorn your space with this adorable creation, expertly woven with love and care. Each stitch tells a story of craftsmanship, making it a perfect addition to your collection
 
                             </p>
                             <h4 class="smalltitle">$45</h4>

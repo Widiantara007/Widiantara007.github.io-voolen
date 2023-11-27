@@ -171,7 +171,7 @@
                     <div class="p-4">
                         <h4 class="mb-3">Silk Painting
                         </h4>
-                        <p>Experience the timeless art of Knitting, where yarn and needles transform into cozy creations. Whether a beginner or an expert, the possibilities are endless – from warm sweaters to trendy accessories. Knitting is a journey into the comforting world of handmade warmth.
+                        <p>Dive into the artistry of silk painting—an enchanting activity that transforms silk into vibrant masterpieces. Unleash your creativity with this mesmerizing craft, capturing hearts and creating timeless, one-of-a-kind treasures. Elevate your artistic journey and bring home the allure of hand-painted silk
                         </p>
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
