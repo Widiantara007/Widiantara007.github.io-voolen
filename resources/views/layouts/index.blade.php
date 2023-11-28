@@ -12,7 +12,7 @@
                 <h1 class="display-6 maintext">Variative activities to joined in Bali or online</h1>
             </div>
             <div class="owl-carousel product-carousel wow fadeInUp" data-wow-delay="0.5s">
-                <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
+                <a href="https://wa.me/+62895341115908" class="d-block product-item rounded">
                     <img src="img/actv2.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext">Basic Crochet: Crafting Elegance, One Stitch at a Time
@@ -21,7 +21,7 @@
                         </span>
                     </div>
                 </a>
-                <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
+                <a href="https://wa.me/+62895341115908" class="d-block product-item rounded">
                     <img src="img/chunkybag.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext"> Chunky Bag: Fashion Meets Functionality
@@ -30,7 +30,7 @@
                         </span>
                     </div>
                 </a>
-                <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
+                <a href="https://wa.me/+62895341115908" class="d-block product-item rounded">
                     <img src="img/punch.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext">Punch Needle: Painting with Yarn
@@ -39,7 +39,7 @@
                         </span>
                     </div>
                 </a>
-                <a href="https://wa.me/0895341115908" class="d-block product-item rounded">
+                <a href="https://wa.me/+62895341115908" class="d-block product-item rounded">
                     <img src="img/resin.jpg" alt="">
                     <div class="bg-white shadow-sm text-center p-4 position-relative mt-n5 mx-4">
                         <h4 class="maintext">Resin Ocean Painting: Waves of Creativity
@@ -117,7 +117,7 @@
                                 </div>
                             </div>
                         </div>
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-reverse rounded-pill py-3 px-5 animated zoomIn">Join Now</a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-reverse rounded-pill py-3 px-5 animated zoomIn">Join Now</a>
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -163,7 +163,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/shoulder.jpg" alt="">
+                        <img class="img-fluid" src="img/Shoulder.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -177,13 +177,13 @@
                             <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Shoulder%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Shoulder%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="store-item position-relative text-center">
-                        <img class="img-fluid" src="img/granny.jpg" alt="">
+                        <img class="img-fluid" src="img/Granny.jpg" alt="">
                         <div class="p-4">
                             <div class="text-center mb-3">
                                 <small class="fa fa-star smalltitle"></small>
@@ -197,7 +197,7 @@
                             <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Granny%20Square%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Granny%20Square%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -217,7 +217,7 @@
                             <h4 class="smalltitle">$19.00</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Scrunchy.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Scrunchy.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
 
                         </div>
                     </div>
@@ -345,7 +345,7 @@
                 </div>
             </div>
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Contact Now</a>
+                <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20With%20Volen Artspace%20.%20Do you have time to contact me please?" class="btn btn-dark rounded-pill py-3 px-5 animated zoomIn">Contact Now</a>
             </div>
         </div>
     </div>

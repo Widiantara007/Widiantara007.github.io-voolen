@@ -37,7 +37,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Basic Crochet: Crafting Elegance, One Stitch at a Time.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Basic Crochet: Crafting Elegance, One Stitch at a Time.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Basic  Chunky Bag: Fashion Meets Functionality.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Basic  Chunky Bag: Fashion Meets Functionality.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Punch Needle: Painting with Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Punch Needle: Painting with Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Resin Ocean Painting: Waves of Creativity.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Resin Ocean Painting: Waves of Creativity.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Beads Jewellery: Adorn Yourself with Handcrafted Elegance.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Beads Jewellery: Adorn Yourself with Handcrafted Elegance.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -112,7 +112,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Macrame: Knot Your Average Craft.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Macrame: Knot Your Average Craft.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Tapestry Weaving: Thread by Thread, a Tapestry Unfolds.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Tapestry Weaving: Thread by Thread, a Tapestry Unfolds.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Knitting: Cozy Creations with Needles and Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Knitting: Cozy Creations with Needles and Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -161,7 +161,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Embroidery: Stitching Stories on Fabric.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Embroidery: Stitching Stories on Fabric.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -176,7 +176,7 @@
                         {{-- <h4 class="smalltitle">$19.00</h4> --}}
                     </div>
                     <div class="store-overlay">
-                        <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Knitting: Cozy Creations with Needles and Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Join%20Knitting: Cozy Creations with Needles and Yarn.%20Can you arrange one for me please?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Join Now<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>

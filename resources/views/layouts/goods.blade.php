@@ -40,7 +40,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Shoulder%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Shoulder%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                             <h4 class="smalltitle">$55</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Granny%20Square%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Granny%20Square%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                             <h4 class="smalltitle">$25</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Scrunchy.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Scrunchy.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Chunky%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Chunky%20Bag.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Flower.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Flower.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Bunny.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Bunny.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Dino.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Dino.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -190,7 +190,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Turtle.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi%20Turtle.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                             <h4 class="smalltitle">$30</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Pouch.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Pouch.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                             <h4 class="smalltitle">$45</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi Duck.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Amigurumi Duck.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -256,7 +256,7 @@
                             <h4 class="smalltitle">$65</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%2030%20x%2040.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%2030%20x%2040.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                     </div>
                 </div>
@@ -278,7 +278,7 @@
                             <h4 class="smalltitle">$80</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%2050%20x%2060.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%2050%20x%2060.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                        
                     </div>
@@ -301,7 +301,7 @@
                             <h4 class="smalltitle">$100</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%2080%20x%2090.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%2080%20x%2090.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                         
                     </div>
@@ -325,7 +325,7 @@
                             <h4 class="smalltitle">$130</h4>
                         </div>
                         <div class="store-overlay">
-                            <a href="https://api.whatsapp.com/send?phone=0895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%20100%20x%20120.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
+                            <a href="https://api.whatsapp.com/send?phone=+62895341115908&text=Hi!%20I am%20Really%20Excited%20To%20Have%20Macramé%20Wall%20Hanging%20100%20x%20120.%20How%20Can%20I%20Own%20It?" target="_blank" rel="noopener noreferrer" class="btn btn-dark rounded-pill py-2 px-4 m-2">Buy Now<i class="fa fa-arrow-right ms-2"></i></a>
                         </div>
                       
                     </div>
